@@ -1,0 +1,121 @@
+;;;Наивный алгос;КМП со стандартными гранями;КМП с уточнёнными гранями;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: binary;Length: 10000;Template length: 100;2747;1819;1708;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: binary;Length: 10000;Template length: 200;2737;1848;1737;;;Бинарный алфавит, 10к символов;;;;;;;;;;;;;;;;;;Бинарный алфавит, 100к символов;;;;;;;;;;;;;;;Наивный алгос;КМП со стандартными гранями;КМП с уточнёнными гранями
+Array type: binary;Length: 10000;Template length: 300;2723;1867;1766;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 100;27231;16586;16693
+Array type: binary;Length: 10000;Template length: 400;2687;1871;1809;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 200;27156;16664;16585
+Array type: binary;Length: 10000;Template length: 500;2697;1881;1830;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 300;27139;16923;16664
+Array type: binary;Length: 10000;Template length: 600;2825;2019;1998;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 400;27023;17162;16555
+Array type: binary;Length: 10000;Template length: 700;2655;1939;1914;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 500;27064;17497;16471
+Array type: binary;Length: 10000;Template length: 800;2636;1879;1950;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 600;26837;17501;15925
+Array type: binary;Length: 10000;Template length: 900;2623;1994;1903;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 700;26858;17460;15870
+Array type: binary;Length: 10000;Template length: 1000;2591;4665;4619;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 800;26955;16646;16539
+Array type: binary;Length: 10000;Template length: 1100;2611;1927;2067;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 900;26974;16766;16663
+Array type: binary;Length: 10000;Template length: 1200;2583;1998;2107;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1000;26933;16813;16785
+Array type: binary;Length: 10000;Template length: 1300;2581;7976;8167;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1100;26825;17332;16675
+Array type: binary;Length: 10000;Template length: 1400;2564;1972;2126;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1200;26932;17714;16603
+Array type: binary;Length: 10000;Template length: 1500;2519;1981;2160;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1300;26804;18188;15898
+Array type: binary;Length: 10000;Template length: 1600;2479;1931;2169;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1400;26961;18011;16138
+Array type: binary;Length: 10000;Template length: 1700;2489;2055;2263;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1500;27208;18022;16325
+Array type: binary;Length: 10000;Template length: 1800;2469;2134;2273;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1600;26883;17432;16973
+Array type: binary;Length: 10000;Template length: 1900;2451;2006;2334;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1700;27237;17573;17023
+Array type: binary;Length: 10000;Template length: 2000;2412;2035;2266;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1800;26953;17945;16382
+Array type: binary;Length: 10000;Template length: 2100;2420;2145;2355;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1900;27110;16975;17330
+Array type: binary;Length: 10000;Template length: 2200;2420;2125;2426;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2000;27014;16693;17798
+Array type: binary;Length: 10000;Template length: 2300;2384;2127;2436;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2100;26925;16948;16992
+Array type: binary;Length: 10000;Template length: 2400;2368;2134;2463;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2200;26639;16737;16835
+Array type: binary;Length: 10000;Template length: 2500;2335;2094;2505;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2300;26920;16667;17157
+Array type: binary;Length: 10000;Template length: 2600;2369;2191;2574;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2400;26774;17542;17207
+Array type: binary;Length: 10000;Template length: 2700;2325;2306;2554;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2500;27009;17363;17551
+Array type: binary;Length: 10000;Template length: 2800;2320;2291;2616;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2600;26929;16810;17166
+Array type: binary;Length: 10000;Template length: 2900;2288;2282;2529;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2700;26753;16859;17105
+Array type: binary;Length: 10000;Template length: 3000;2324;2258;2636;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2800;26568;16956;17133
+Array type: binary;Length: 100000;Template length: 100;27231;16586;16693;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2900;26684;17295;17290
+Array type: binary;Length: 100000;Template length: 200;27156;16664;16585;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 3000;26665;17473;17273
+Array type: binary;Length: 100000;Template length: 300;27139;16923;16664;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: binary;Length: 100000;Template length: 400;27023;17162;16555;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: binary;Length: 100000;Template length: 500;27064;17497;16471;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: binary;Length: 100000;Template length: 600;26837;17501;15925;;Алфавит из 4 символов, 10к символов;;;;;;;;;;;;;;;;;;;Алфавит из 4 символов, 100к символов;;;;;;;;;;;;;;;;;
+Array type: binary;Length: 100000;Template length: 700;26858;17460;15870;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Наивный алгос;КМП со стандартными гранями;КМП с уточнёнными гранями
+Array type: binary;Length: 100000;Template length: 800;26955;16646;16539;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 100;1849;1599;1615
+Array type: binary;Length: 100000;Template length: 900;26974;16766;16663;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 200;1859;1617;1653
+Array type: binary;Length: 100000;Template length: 1000;26933;16813;16785;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 300;1815;1613;1651
+Array type: binary;Length: 100000;Template length: 1100;26825;17332;16675;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 400;1839;1645;1691
+Array type: binary;Length: 100000;Template length: 1200;26932;17714;16603;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 500;1842;1643;1715
+Array type: binary;Length: 100000;Template length: 1300;26804;18188;15898;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 600;1822;1662;1726
+Array type: binary;Length: 100000;Template length: 1400;26961;18011;16138;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 700;1804;1680;1785
+Array type: binary;Length: 100000;Template length: 1500;27208;18022;16325;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 800;1823;1706;1821
+Array type: binary;Length: 100000;Template length: 1600;26883;17432;16973;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 900;1797;1704;1834
+Array type: binary;Length: 100000;Template length: 1700;27237;17573;17023;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1000;1786;1723;1817
+Array type: binary;Length: 100000;Template length: 1800;26953;17945;16382;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1100;1788;1741;1896
+Array type: binary;Length: 100000;Template length: 1900;27110;16975;17330;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1200;1775;1736;1922
+Array type: binary;Length: 100000;Template length: 2000;27014;16693;17798;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1300;1761;1761;1948
+Array type: binary;Length: 100000;Template length: 2100;26925;16948;16992;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1400;1771;1776;1971
+Array type: binary;Length: 100000;Template length: 2200;26639;16737;16835;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1500;1784;1824;2007
+Array type: binary;Length: 100000;Template length: 2300;26920;16667;17157;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1600;1778;1827;2034
+Array type: binary;Length: 100000;Template length: 2400;26774;17542;17207;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1700;1758;1828;2070
+Array type: binary;Length: 100000;Template length: 2500;27009;17363;17551;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1800;1760;1849;2107
+Array type: binary;Length: 100000;Template length: 2600;26929;16810;17166;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1900;1751;1867;2124
+Array type: binary;Length: 100000;Template length: 2700;26753;16859;17105;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2000;1729;1865;2144
+Array type: binary;Length: 100000;Template length: 2800;26568;16956;17133;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2100;1740;1898;2190
+Array type: binary;Length: 100000;Template length: 2900;26684;17295;17290;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2200;1735;1913;2232
+Array type: binary;Length: 100000;Template length: 3000;26665;17473;17273;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2300;1734;1924;2241
+Array type: Four-symbol;Length: 10000;Template length: 100;1849;1599;1615;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2400;1702;1930;2254
+Array type: Four-symbol;Length: 10000;Template length: 200;1859;1617;1653;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2500;1706;1955;2283
+Array type: Four-symbol;Length: 10000;Template length: 300;1815;1613;1651;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2600;1861;2096;2518
+Array type: Four-symbol;Length: 10000;Template length: 400;1839;1645;1691;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2700;1673;1963;2338
+Array type: Four-symbol;Length: 10000;Template length: 500;1842;1643;1715;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2800;1680;1980;2356
+Array type: Four-symbol;Length: 10000;Template length: 600;1822;1662;1726;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2900;1670;1993;2409
+Array type: Four-symbol;Length: 10000;Template length: 700;1804;1680;1785;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 3000;1667;1999;2415
+Array type: Four-symbol;Length: 10000;Template length: 800;1823;1706;1821;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 10000;Template length: 900;1797;1704;1834;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 10000;Template length: 1000;1786;1723;1817;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Наивный алгос;КМП со стандартными гранями;КМП с уточнёнными гранями
+Array type: Four-symbol;Length: 10000;Template length: 1100;1788;1741;1896;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 100;19781;26301;15973
+Array type: Four-symbol;Length: 10000;Template length: 1200;1775;1736;1922;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 200;19825;28145;16965
+Array type: Four-symbol;Length: 10000;Template length: 1300;1761;1761;1948;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 300;18503;15913;15973
+Array type: Four-symbol;Length: 10000;Template length: 1400;1771;1776;1971;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 400;19429;25519;18718
+Array type: Four-symbol;Length: 10000;Template length: 1500;1784;1824;2007;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 500;19417;28642;20879
+Array type: Four-symbol;Length: 10000;Template length: 1600;1778;1827;2034;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 600;18399;15920;15813
+Array type: Four-symbol;Length: 10000;Template length: 1700;1758;1828;2070;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 700;18342;16221;15942
+Array type: Four-symbol;Length: 10000;Template length: 1800;1760;1849;2107;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 800;18691;16120;16257
+Array type: Four-symbol;Length: 10000;Template length: 1900;1751;1867;2124;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 900;18454;15938;16077
+Array type: Four-symbol;Length: 10000;Template length: 2000;1729;1865;2144;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1000;18479;16000;16095
+Array type: Four-symbol;Length: 10000;Template length: 2100;1740;1898;2190;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1100;18483;15989;16156
+Array type: Four-symbol;Length: 10000;Template length: 2200;1735;1913;2232;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1200;18503;15953;16108
+Array type: Four-symbol;Length: 10000;Template length: 2300;1734;1924;2241;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1300;18489;15994;16212
+Array type: Four-symbol;Length: 10000;Template length: 2400;1702;1930;2254;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1400;18471;16027;16244
+Array type: Four-symbol;Length: 10000;Template length: 2500;1706;1955;2283;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1500;18359;15981;16193
+Array type: Four-symbol;Length: 10000;Template length: 2600;1861;2096;2518;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1600;18342;16058;16234
+Array type: Four-symbol;Length: 10000;Template length: 2700;1673;1963;2338;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1700;18453;16105;16376
+Array type: Four-symbol;Length: 10000;Template length: 2800;1680;1980;2356;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1800;18799;16258;16670
+Array type: Four-symbol;Length: 10000;Template length: 2900;1670;1993;2409;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 1900;18643;16286;16618
+Array type: Four-symbol;Length: 10000;Template length: 3000;1667;1999;2415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2000;18613;16296;16645
+Array type: Four-symbol;Length: 100000;Template length: 100;19781;26301;15973;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2100;18492;16258;16570
+Array type: Four-symbol;Length: 100000;Template length: 200;19825;28145;16965;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2200;18257;16089;16363
+Array type: Four-symbol;Length: 100000;Template length: 300;18503;15913;15973;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2300;18307;16110;16412
+Array type: Four-symbol;Length: 100000;Template length: 400;19429;25519;18718;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2400;18267;16061;16417
+Array type: Four-symbol;Length: 100000;Template length: 500;19417;28642;20879;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2500;18304;16150;16528
+Array type: Four-symbol;Length: 100000;Template length: 600;18399;15920;15813;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2600;18368;16234;16581
+Array type: Four-symbol;Length: 100000;Template length: 700;18342;16221;15942;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2700;18246;16164;16544
+Array type: Four-symbol;Length: 100000;Template length: 800;18691;16120;16257;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2800;18336;16205;16590
+Array type: Four-symbol;Length: 100000;Template length: 900;18454;15938;16077;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 2900;18224;16165;16575
+Array type: Four-symbol;Length: 100000;Template length: 1000;18479;16000;16095;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Template length: 3000;18384;16193;16611
+Array type: Four-symbol;Length: 100000;Template length: 1100;18483;15989;16156;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 1200;18503;15953;16108;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 1300;18489;15994;16212;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 1400;18471;16027;16244;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 1500;18359;15981;16193;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 1600;18342;16058;16234;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 1700;18453;16105;16376;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 1800;18799;16258;16670;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 1900;18643;16286;16618;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 2000;18613;16296;16645;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 2100;18492;16258;16570;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 2200;18257;16089;16363;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 2300;18307;16110;16412;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 2400;18267;16061;16417;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 2500;18304;16150;16528;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 2600;18368;16234;16581;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 2700;18246;16164;16544;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 2800;18336;16205;16590;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 2900;18224;16165;16575;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Array type: Four-symbol;Length: 100000;Template length: 3000;18384;16193;16611;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
